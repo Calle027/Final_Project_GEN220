@@ -230,8 +230,5 @@ if path.is_file():
     print(f'The file {path_to_file3} exists')
 else:
     print(f'The file {path_to_file3} does not exist')
-    
-print('Printing in a Nutshell', end='\n * ')
-print('Calling Print', end='\n * ')
-print('Separating Multiple Arguments', end='\n * ')
-print('Preventing Line Breaks')
+
+
